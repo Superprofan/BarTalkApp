@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarTalk</string>
+    <string name="say_something">Type what you want to say</string>
+</resources>
